@@ -1,0 +1,22 @@
+M48
+; #@! TF.GenerationSoftware,LibrePCB,LibrePCB,0.1.6
+; #@! TF.CreationDate,2022-07-20T10:00:17
+; #@! TF.ProjectId,Sensor de pulso (Sensor_Pulso),780e052b-a1ef-4dc1-bbf9-e3d6d5305104,v1
+; #@! TF.Part,Single
+; #@! TF.SameCoordinates
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC,TZ
+; #@! TA.AperFunction,MechanicalDrill
+T1C3.0
+%
+G90
+G05
+M71
+T1
+X3.81Y3.81
+X66.04Y3.81
+X66.04Y50.8
+X3.81Y50.8
+T0
+M30

@@ -1,0 +1,27 @@
+G04 --- HEADER BEGIN --- *
+G04 #@! TF.GenerationSoftware,LibrePCB,LibrePCB,0.1.6*
+G04 #@! TF.CreationDate,2022-07-20T10:00:17*
+G04 #@! TF.ProjectId,Sensor de pulso (Sensor_Pulso),780e052b-a1ef-4dc1-bbf9-e3d6d5305104,v1*
+G04 #@! TF.Part,Single*
+G04 #@! TF.SameCoordinates*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX66Y66*%
+%MOMM*%
+G01*
+G75*
+G04 --- HEADER END --- *
+G04 --- APERTURE LIST BEGIN --- *
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,2.0*%
+G04 #@! TD*
+G04 --- APERTURE LIST END --- *
+G04 --- BOARD BEGIN --- *
+D10*
+X0Y0D02*
+X70000000Y0D01*
+X70000000Y55000000D01*
+X0Y55000000D01*
+X0Y0D01*
+G04 --- BOARD END --- *
+G04 #@! TF.MD5,67c94f22cb163e2aa3247cc4ed46b3de*
+M02*
